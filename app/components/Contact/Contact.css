@@ -1,0 +1,21 @@
+.contact {
+    height: 72px;
+    display: flex;
+    border-bottom: 1px solid #eee;
+    padding-left: 20px;
+    align-items: center;
+}
+
+.contact:last-child {
+  border-bottom: none;
+}
+
+.picture {
+    height: 54px;
+    width: 54px;
+}
+
+.name {
+    margin: 0 0 0 24px;
+    font-size: 20px;
+}

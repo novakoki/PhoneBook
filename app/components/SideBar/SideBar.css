@@ -1,0 +1,15 @@
+.list {
+  list-style: none;
+  position: fixed;
+  right: 6px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: 350px;
+  color: gray;
+}
+
+.item {
+  font-size: 12px;
+  text-align: center;
+}

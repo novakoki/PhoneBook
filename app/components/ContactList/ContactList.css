@@ -1,0 +1,12 @@
+.list {
+  list-style: none;
+  padding-left: 20px;
+  margin-right: 32px;
+  margin-top: 60px;
+  height: calc(100% - 30px);
+  overflow-y: scroll;
+}
+
+.list::-webkit-scrollbar {
+  width: 0px;
+}

@@ -1,0 +1,12 @@
+div, html {
+  height: 100%;
+}
+
+body {
+  height: calc(100% - 60px);
+}
+
+.app {
+  font-family: "Helvetica Neue", Helvetica, STHeiTi, Roboto, sans-serif;
+  height: 100%;
+}
